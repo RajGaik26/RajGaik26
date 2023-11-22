@@ -8,7 +8,7 @@ Commitment to improving efficiency, ensuring scalability, and fostering collabor
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [gaikwadz.world@gmail.com](mailto:gaikwadz.world@gmail.com)
-* 🧠  I'm learning DevSecOps
+* 🧠  I'm learning DSA
 * ⚡  I'm an Athlete 🦾
 
 ### Skills
