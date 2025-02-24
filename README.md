@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋🏻‍♂️, I'm Rajratan Gaikwad</h1>
+<h1 align="center">Hi 🙋🏻‍♂️ I'm Rajratan Gaikwad</h1>
 <h3 align="center">Passionate DevOps and Cloud Engineer from Bengaluru, India.</h3>
 
 - 🔭 I’m currently working on **Production-Grade Deployments**
