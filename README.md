@@ -1,7 +1,11 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Rajratan Gaikwad</h1>
 <h3 align="center">Passionate DevOps and Cloud Engineer from Bengaluru, India. Committed to improving efficiency, ensuring scalability, and fostering collaborative, agile environments.</h3>
 
+- 🔭 I’m currently working on **Production-Grade Deployments**
+
 - 🌱 I’m currently learning **Observability in modern DevOps**
+
+- 👯 I’m looking to collaborate on **Open-Source Cloud-Native DevOps**
 
 - 🤝 I’m looking for help with **Site Reliability Engineering(SRE)**
 
@@ -15,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajratan-gaikwad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajratan-gaikwad/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//rajratan-gaikwad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/rajratan-gaikwad/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@rajratan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rajratan26" height="30" width="40" /></a>
 </p>
 
