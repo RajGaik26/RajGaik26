@@ -1,21 +1,21 @@
 <h1 align="center">Hi 🙋🏻‍♂️ I'm Rajratan Gaikwad</h1>
 <h3 align="center">Passionate DevOps and Cloud Engineer from Bengaluru, India.</h3>
 
-- 🔭 I’m currently working on **Production-Grade Deployments**
+- 🔭 I’m currently working on      ➟  **Production-Grade Deployments**
 
-- 🌱 I’m currently learning **Observability in modern DevOps**
+- 🌱 I’m currently learning        ➟  **Observability in modern DevOps**
 
-- 👯 I’m looking to collaborate on **Open-Source Cloud-Native DevOps**
+- 👯 I’m looking to collaborate on ➟  **Open-Source Cloud-Native DevOps**
 
-- 🤝 I’m looking for help with **Site Reliability Engineering(SRE)**
+- 🤝 I’m looking for help with     ➟  **Site Reliability Engineering(SRE)**
 
-- 📝 I regularly write articles on [https://rajratangaikwad.hashnode.dev/](https://rajratangaikwad.hashnode.dev/)
+- 📝 I regularly write articles on ➟ [https://rajratangaikwad.hashnode.dev/](https://rajratangaikwad.hashnode.dev/)
 
-- 💬 Ask me about **DevOps and Cloud**
+- 💬 Ask me about                  ➟ **DevOps and Cloud**
 
-- 📫 How to reach me **rajratangaikwad26@gmail.com**
+- 📫 How to reach me               ➟ **rajratangaikwad26@gmail.com**
 
-- ⚡ Fun fact **👨🏻‍💻DevOps by Day, 🏀Hoops by Night!**
+- ⚡ Fun fact                      ➟ **👨🏻‍💻DevOps by Day, 🏀Hoops by Night!**
 
 # 👻 Connect with me:
 <p align="left">
